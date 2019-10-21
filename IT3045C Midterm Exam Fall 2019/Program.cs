@@ -9,6 +9,10 @@ namespace IT3045C_Midterm_Exam_Fall_2019
 {
     class Program
     {
+        /// <summary>
+        /// Briefly exercise the PrimeChecker class
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args) {
             int input = 0;
             Console.WriteLine("Enter a positive integer please. ");

@@ -7,6 +7,9 @@ using System;
 
 namespace IT3045C_Midterm_Exam_Fall_2019
 {
+    /// <summary>
+    /// Model some prime number calculations
+    /// </summary>
     class PrimeChecker
     {
         /// <summary>
